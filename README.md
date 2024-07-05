@@ -1,6 +1,6 @@
 # 😎Hey! Nice to see you.
 
-<p align="center" style="font-size: 24px;">
+<p align="center" style="font-size: 30px;">
   I'm <b>Vishal</b> 😀
   <br>
   I'm a <b>Sr. Data Analyst at Nokia.</b>
