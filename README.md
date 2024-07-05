@@ -1,9 +1,10 @@
-# Hey! Nice to see you.
+# 😎Hey! Nice to see you.
 
-I'm **Vishal** 😀
-
-I'm a **Sr. Data Analyst** at Nokia.
-
+<p align="center" style="font-size: 24px;">
+  I'm <b>Vishal</b> 😀
+  <br>
+  I'm a <b>Sr. Data Analyst at Nokia.</b>
+</p>
 
 ## About Me
 
